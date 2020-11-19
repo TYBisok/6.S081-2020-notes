@@ -17,4 +17,4 @@
 - [x] lock
 - [x] fs
 - [x] mmap
-- [ ] net
+- [x] net
